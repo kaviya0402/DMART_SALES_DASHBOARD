@@ -47,6 +47,7 @@ This project analyzes Dmart sales data to track revenue performance, regional tr
 - Analyzed regional sales contribution
 - Measured impact of discount on sales
 - Compared sales performance across customer segments
-- 
+
 **✅ Conclusion**
+
 The Dmart Sales Dashboard provides a clear overview of revenue performance and customer buying patterns. It supports data-driven business decisions for improving profitability and operational efficiency.
